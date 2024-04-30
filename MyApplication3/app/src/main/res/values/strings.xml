@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="naci_nij">Naciśnij!</string>
+    <string name="ten_tekst_zmieni_si_po_klikni_ciu_w_przycisk">Ten tekst zmieni się po kliknięciu w przycisk</string>
+</resources>
