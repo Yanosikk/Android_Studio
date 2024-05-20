@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4_2</string>
+    <string name="rzut_monet">Rzut monetą</string>
+    <string name="wyrzuci_e">Wyrzuciłeś:</string>
+</resources>

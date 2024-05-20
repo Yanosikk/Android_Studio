@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4_1</string>
+    <string name="wybierz_czynno_na_dzi">Wybierz czynność na dziś</string>
+    <string name="wybrana_czynno_na_dzi">Wybrana czynność na dziś:</string>
+</resources>
